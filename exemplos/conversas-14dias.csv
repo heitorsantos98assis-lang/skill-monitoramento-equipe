@@ -1,0 +1,228 @@
+data_hora,atendente,cliente,direcao,mensagem
+2026-05-11 09:01:47,,Tatiana Berlim,recebida,Posso fazer trial?
+2026-05-11 09:02:17,Joao,Tatiana Berlim,enviada,Oi! Te respondo agora
+2026-05-11 09:24:06,,Carla Premium,recebida,URGENTE preciso hoje
+2026-05-11 09:26:37,Joao,Carla Premium,enviada,Posso te ligar?
+2026-05-11 09:35:18,,Carlos Mello,recebida,URGENTE preciso hoje
+2026-05-11 09:35:48,Joao,Carlos Mello,enviada,Oi! Te respondo agora
+2026-05-11 10:16:08,,Felipe Bento,recebida,Quero conhecer melhor
+2026-05-11 10:23:22,,Patricia Mota,recebida,Quero conhecer melhor
+2026-05-11 10:27:11,Carlos,Felipe Bento,enviada,Te passo as opcoes
+2026-05-11 10:28:37,Joao,Patricia Mota,enviada,Te passo as opcoes
+2026-05-11 11:43:20,,Sandra Cicrano,recebida,Posso fazer trial?
+2026-05-11 11:45:41,,Daniela Silva,recebida,Vou comprar no concorrente
+2026-05-11 11:55:03,Ana,Sandra Cicrano,enviada,Posso te ligar?
+2026-05-11 11:57:48,Ana,Daniela Silva,enviada,Bom dia! Vou ver isso
+2026-05-11 12:04:13,,Felipe Tech,recebida,"Esta um lixo, quero cancelar"
+2026-05-11 12:05:56,Carlos,Felipe Tech,enviada,Posso te ligar?
+2026-05-11 14:23:14,,Aline Souza,recebida,"Perfeito, amei"
+2026-05-11 17:27:02,,Pedro Fulano,recebida,Voces entregam aqui?
+2026-05-11 17:27:32,Joao,Pedro Fulano,enviada,Te passo as opcoes
+2026-05-11 18:10:34,,Felipe Bento,recebida,Posso pagar parcelado?
+2026-05-11 18:14:49,,Rafael Pinheiro,recebida,Voces entregam aqui?
+2026-05-11 18:15:24,Joao,Rafael Pinheiro,enviada,"Claro, te explico"
+2026-05-11 18:26:50,Ana,Felipe Bento,enviada,Te passo as opcoes
+2026-05-11 19:27:21,,Tatiana Berlim,recebida,Quero fechar pedido
+2026-05-11 19:39:01,Ana,Tatiana Berlim,enviada,Oi! Te respondo agora
+2026-05-12 09:09:40,,Lucia Silva,recebida,Vou comprar no concorrente
+2026-05-12 09:10:10,Carlos,Lucia Silva,enviada,Te passo as opcoes
+2026-05-12 09:55:40,,Rafael Pinheiro,recebida,Quanto custa premium?
+2026-05-12 09:59:46,Maria,Rafael Pinheiro,enviada,Te passo as opcoes
+2026-05-12 11:03:15,,Felipe Tech,recebida,Voces entregam aqui?
+2026-05-12 12:35:55,,Pedro Fulano,recebida,Como funciona a garantia?
+2026-05-12 12:54:41,Ana,Pedro Fulano,enviada,Vamos resolver
+2026-05-12 13:07:18,,Henrique Bento,recebida,Posso pagar parcelado?
+2026-05-12 13:24:18,Ana,Henrique Bento,enviada,Te passo as opcoes
+2026-05-12 15:35:10,,Tatiana Berlim,recebida,Vou comprar no concorrente
+2026-05-12 15:37:30,Maria,Tatiana Berlim,enviada,Vamos resolver
+2026-05-12 15:52:04,,Daniela Silva,recebida,Quero fechar pedido
+2026-05-12 16:58:00,,Carlos Mello,recebida,"Esta um lixo, quero cancelar"
+2026-05-12 17:06:33,Joao,Carlos Mello,enviada,"Claro, te explico"
+2026-05-13 08:37:35,,Felipe Bento,recebida,Posso fazer trial?
+2026-05-13 08:43:41,,Bruno Tech,recebida,Tem desconto?
+2026-05-13 08:56:08,Ana,Bruno Tech,enviada,Bom dia! Vou ver isso
+2026-05-13 09:28:51,,Daniela Silva,recebida,Como funciona a garantia?
+2026-05-13 10:24:00,,Gisele Pinheiro,recebida,Quero conhecer melhor
+2026-05-13 10:31:42,Carlos,Gisele Pinheiro,enviada,"Claro, te explico"
+2026-05-13 11:06:06,,Henrique Bento,recebida,URGENTE preciso hoje
+2026-05-13 11:16:29,Carlos,Henrique Bento,enviada,Vamos resolver
+2026-05-13 11:34:28,,Aline Souza,recebida,Vou comprar no concorrente
+2026-05-13 11:40:05,Carlos,Aline Souza,enviada,Bom dia! Vou ver isso
+2026-05-13 14:42:41,,Carla Premium,recebida,"Excelente, obrigado!"
+2026-05-13 14:51:14,Carlos,Carla Premium,enviada,"Claro, te explico"
+2026-05-13 16:15:17,,Andre Cliente,recebida,Quanto custa premium?
+2026-05-13 16:22:25,Carlos,Andre Cliente,enviada,Posso te ligar?
+2026-05-13 16:53:00,,Roberto VIP,recebida,Posso fazer trial?
+2026-05-13 16:54:02,Carlos,Roberto VIP,enviada,Oi! Te respondo agora
+2026-05-13 19:40:03,,Felipe Bento,recebida,Voces entregam aqui?
+2026-05-13 19:53:31,Ana,Felipe Bento,enviada,Oi! Te respondo agora
+2026-05-14 09:56:36,,Felipe Bento,recebida,Tem desconto?
+2026-05-14 10:01:28,Carlos,Felipe Bento,enviada,"Claro, te explico"
+2026-05-14 12:13:42,,Mariana Costa,recebida,Posso fazer trial?
+2026-05-14 12:15:27,Maria,Mariana Costa,enviada,Vamos resolver
+2026-05-14 13:18:10,,Isadora Lima,recebida,Voces tem revenda?
+2026-05-14 13:18:40,Joao,Isadora Lima,enviada,Vamos resolver
+2026-05-14 15:32:58,,Beatriz Cliente,recebida,Posso pagar parcelado?
+2026-05-14 16:03:47,,Mariana Costa,recebida,Tem desconto?
+2026-05-14 16:05:54,,Lucia Silva,recebida,Voces entregam aqui?
+2026-05-14 16:11:55,Maria,Lucia Silva,enviada,Posso te ligar?
+2026-05-14 16:19:59,,Bruno Tech,recebida,Quero fechar pedido
+2026-05-14 16:22:54,Joao,Bruno Tech,enviada,"Claro, te explico"
+2026-05-14 17:13:45,,Mariana Costa,recebida,Quanto custa premium?
+2026-05-14 17:24:00,Ana,Mariana Costa,enviada,Te passo as opcoes
+2026-05-14 17:36:06,,Roberto VIP,recebida,Quanto custa premium?
+2026-05-14 17:46:45,Maria,Roberto VIP,enviada,Bom dia! Vou ver isso
+2026-05-14 18:19:29,,Mariana Costa,recebida,Voces entregam aqui?
+2026-05-14 19:46:50,,Daniela Silva,recebida,"Perfeito, amei"
+2026-05-14 19:59:02,Ana,Daniela Silva,enviada,Vamos resolver
+2026-05-15 08:54:30,,Felipe Bento,recebida,Quanto custa premium?
+2026-05-15 08:57:22,,Patricia Mota,recebida,Posso fazer trial?
+2026-05-15 08:58:14,Carlos,Felipe Bento,enviada,Bom dia! Vou ver isso
+2026-05-15 09:09:44,Ana,Patricia Mota,enviada,Te passo as opcoes
+2026-05-15 11:01:42,,Patricia Mota,recebida,"Que horror, pessimo atendimento"
+2026-05-15 11:09:12,Joao,Patricia Mota,enviada,"Claro, te explico"
+2026-05-15 12:02:06,,Carlos Mello,recebida,Vou comprar no concorrente
+2026-05-15 12:12:28,Ana,Carlos Mello,enviada,Posso te ligar?
+2026-05-15 12:57:58,,Sandra Cicrano,recebida,Voces entregam aqui?
+2026-05-15 13:12:33,Ana,Sandra Cicrano,enviada,Bom dia! Vou ver isso
+2026-05-15 13:41:32,,Gisele Pinheiro,recebida,"Esta um lixo, quero cancelar"
+2026-05-15 13:46:12,Joao,Gisele Pinheiro,enviada,Te passo as opcoes
+2026-05-15 13:50:59,,Henrique Bento,recebida,Posso fazer trial?
+2026-05-15 13:53:31,Joao,Henrique Bento,enviada,Posso te ligar?
+2026-05-15 14:39:47,,Aline Souza,recebida,Posso fazer trial?
+2026-05-15 14:45:16,Maria,Aline Souza,enviada,Vamos resolver
+2026-05-15 17:32:07,,Gisele Pinheiro,recebida,Quanto custa premium?
+2026-05-15 17:45:57,Carlos,Gisele Pinheiro,enviada,Te passo as opcoes
+2026-05-15 18:16:10,,Isadora Lima,recebida,Vou comprar no concorrente
+2026-05-15 18:19:54,Joao,Isadora Lima,enviada,Oi! Te respondo agora
+2026-05-15 19:57:09,,Daniela Silva,recebida,Tem desconto?
+2026-05-15 20:01:21,Maria,Daniela Silva,enviada,"Claro, te explico"
+2026-05-16 12:27:04,,Mariana Costa,recebida,"Esta um lixo, quero cancelar"
+2026-05-16 12:30:08,Joao,Mariana Costa,enviada,Vamos resolver
+2026-05-16 12:32:19,,Henrique Bento,recebida,"Esta um lixo, quero cancelar"
+2026-05-16 12:42:28,Ana,Henrique Bento,enviada,Vamos resolver
+2026-05-16 13:43:47,,Lucia Silva,recebida,Voces tem revenda?
+2026-05-16 13:46:07,Joao,Lucia Silva,enviada,"Claro, te explico"
+2026-05-17 10:15:30,,Carlos Mello,recebida,Voces entregam aqui?
+2026-05-17 10:19:54,Maria,Carlos Mello,enviada,Posso te ligar?
+2026-05-17 11:27:50,,Felipe Tech,recebida,"Esta um lixo, quero cancelar"
+2026-05-17 11:33:12,Carlos,Felipe Tech,enviada,Vamos resolver
+2026-05-17 11:42:05,,Rafael Pinheiro,recebida,"Esta um lixo, quero cancelar"
+2026-05-17 16:15:43,,Rafael Pinheiro,recebida,Posso fazer trial?
+2026-05-17 16:17:30,Maria,Rafael Pinheiro,enviada,Oi! Te respondo agora
+2026-05-18 10:14:24,,Aline Souza,recebida,Quanto custa premium?
+2026-05-18 10:41:44,,Pedro Fulano,recebida,Como funciona a garantia?
+2026-05-18 10:43:50,Maria,Pedro Fulano,enviada,Bom dia! Vou ver isso
+2026-05-18 12:15:17,,Mariana Costa,recebida,"Esta um lixo, quero cancelar"
+2026-05-18 12:16:14,Joao,Mariana Costa,enviada,Bom dia! Vou ver isso
+2026-05-18 14:21:34,,Isadora Lima,recebida,Vou comprar no concorrente
+2026-05-18 14:24:57,,Felipe Tech,recebida,"Bom dia, queria saber preco"
+2026-05-18 14:25:27,Carlos,Felipe Tech,enviada,"Claro, te explico"
+2026-05-18 15:40:15,,Tatiana Berlim,recebida,"Excelente, obrigado!"
+2026-05-18 15:57:10,,Andre Cliente,recebida,"Excelente, obrigado!"
+2026-05-18 16:03:27,Maria,Andre Cliente,enviada,Te passo as opcoes
+2026-05-18 16:35:38,,Mariana Costa,recebida,"Excelente, obrigado!"
+2026-05-18 16:44:05,Carlos,Mariana Costa,enviada,Te passo as opcoes
+2026-05-18 19:33:29,,Sandra Cicrano,recebida,Posso fazer trial?
+2026-05-18 19:33:59,Joao,Sandra Cicrano,enviada,Vamos resolver
+2026-05-19 08:39:09,,Felipe Bento,recebida,Quero fechar pedido
+2026-05-19 08:39:39,Joao,Felipe Bento,enviada,Te passo as opcoes
+2026-05-19 08:58:25,,Felipe Tech,recebida,"Bom dia, queria saber preco"
+2026-05-19 09:37:01,,Rafael Pinheiro,recebida,"Que horror, pessimo atendimento"
+2026-05-19 09:40:14,Maria,Rafael Pinheiro,enviada,Oi! Te respondo agora
+2026-05-19 11:29:44,,Tatiana Berlim,recebida,URGENTE preciso hoje
+2026-05-19 11:33:02,Joao,Tatiana Berlim,enviada,"Claro, te explico"
+2026-05-19 13:40:57,,Isadora Lima,recebida,Quero fechar pedido
+2026-05-19 13:58:22,Ana,Isadora Lima,enviada,Posso te ligar?
+2026-05-19 14:08:55,,Isadora Lima,recebida,Posso pagar parcelado?
+2026-05-19 14:16:53,,Roberto VIP,recebida,"Perfeito, amei"
+2026-05-19 14:20:13,,Isadora Lima,recebida,"Esta um lixo, quero cancelar"
+2026-05-19 14:23:08,Carlos,Isadora Lima,enviada,"Claro, te explico"
+2026-05-19 14:54:57,,Henrique Bento,recebida,Posso fazer trial?
+2026-05-19 15:01:24,,Mariana Costa,recebida,"Que horror, pessimo atendimento"
+2026-05-19 15:15:46,Carlos,Mariana Costa,enviada,Te passo as opcoes
+2026-05-19 15:27:32,Ana,Henrique Bento,enviada,Posso te ligar?
+2026-05-19 16:03:22,,Felipe Bento,recebida,Voces entregam aqui?
+2026-05-19 16:06:33,Joao,Felipe Bento,enviada,Bom dia! Vou ver isso
+2026-05-19 17:44:53,,Felipe Bento,recebida,Como funciona a garantia?
+2026-05-19 17:50:02,,Carla Premium,recebida,Vou comprar no concorrente
+2026-05-19 17:50:32,Joao,Carla Premium,enviada,Te passo as opcoes
+2026-05-19 18:20:52,Ana,Felipe Bento,enviada,Oi! Te respondo agora
+2026-05-19 18:21:00,,Henrique Bento,recebida,"Perfeito, amei"
+2026-05-20 08:33:12,,Roberto VIP,recebida,Posso fazer trial?
+2026-05-20 08:35:18,,Aline Souza,recebida,"Perfeito, amei"
+2026-05-20 08:38:06,Carlos,Roberto VIP,enviada,Posso te ligar?
+2026-05-20 08:45:34,,Aline Souza,recebida,Quero conhecer melhor
+2026-05-20 10:31:13,,Carla Premium,recebida,Quero conhecer melhor
+2026-05-20 11:08:42,Ana,Carla Premium,enviada,Te passo as opcoes
+2026-05-20 11:25:44,,Felipe Bento,recebida,Voces tem revenda?
+2026-05-20 11:53:50,Ana,Felipe Bento,enviada,Posso te ligar?
+2026-05-20 12:56:28,,Felipe Bento,recebida,"Excelente, obrigado!"
+2026-05-20 13:01:39,Carlos,Felipe Bento,enviada,"Claro, te explico"
+2026-05-20 14:52:46,,Felipe Tech,recebida,Quero conhecer melhor
+2026-05-20 14:53:16,Maria,Felipe Tech,enviada,Oi! Te respondo agora
+2026-05-20 16:33:22,,Henrique Bento,recebida,"Esta um lixo, quero cancelar"
+2026-05-20 16:40:04,Carlos,Henrique Bento,enviada,Oi! Te respondo agora
+2026-05-20 18:45:31,,Isadora Lima,recebida,"Bom dia, queria saber preco"
+2026-05-20 19:12:20,,Bruno Tech,recebida,Posso pagar parcelado?
+2026-05-20 19:21:35,Carlos,Bruno Tech,enviada,"Claro, te explico"
+2026-05-20 19:37:48,,Beatriz Cliente,recebida,Voces tem revenda?
+2026-05-20 19:41:59,Maria,Beatriz Cliente,enviada,"Claro, te explico"
+2026-05-21 09:15:07,,Daniela Silva,recebida,Vou comprar no concorrente
+2026-05-21 09:24:34,Maria,Daniela Silva,enviada,Te passo as opcoes
+2026-05-21 11:11:35,,Roberto VIP,recebida,Posso pagar parcelado?
+2026-05-21 12:45:18,,Isadora Lima,recebida,Voces entregam aqui?
+2026-05-21 13:17:46,Ana,Isadora Lima,enviada,Vamos resolver
+2026-05-21 14:28:58,,Isadora Lima,recebida,Voces tem revenda?
+2026-05-21 14:34:32,Carlos,Isadora Lima,enviada,Te passo as opcoes
+2026-05-21 15:07:52,,Roberto VIP,recebida,"Que horror, pessimo atendimento"
+2026-05-21 15:14:02,Joao,Roberto VIP,enviada,"Claro, te explico"
+2026-05-21 15:44:38,,Andre Cliente,recebida,Voces tem revenda?
+2026-05-21 17:18:30,,Andre Cliente,recebida,"Excelente, obrigado!"
+2026-05-21 17:24:13,Joao,Andre Cliente,enviada,"Claro, te explico"
+2026-05-21 19:06:48,,Patricia Mota,recebida,Quanto custa premium?
+2026-05-21 19:13:43,Joao,Patricia Mota,enviada,Bom dia! Vou ver isso
+2026-05-22 08:29:05,,Mariana Costa,recebida,Quero conhecer melhor
+2026-05-22 08:39:47,Carlos,Mariana Costa,enviada,Oi! Te respondo agora
+2026-05-22 09:03:10,,Rafael Pinheiro,recebida,Voces tem revenda?
+2026-05-22 09:08:25,Carlos,Rafael Pinheiro,enviada,"Claro, te explico"
+2026-05-22 09:29:07,,Aline Souza,recebida,"Perfeito, amei"
+2026-05-22 09:53:07,Ana,Aline Souza,enviada,Posso te ligar?
+2026-05-22 10:37:27,,Andre Cliente,recebida,Voces entregam aqui?
+2026-05-22 10:42:12,Carlos,Andre Cliente,enviada,Bom dia! Vou ver isso
+2026-05-22 11:27:07,,Daniela Silva,recebida,Posso fazer trial?
+2026-05-22 11:45:10,,Rafael Pinheiro,recebida,"Bom dia, queria saber preco"
+2026-05-22 11:46:54,Ana,Daniela Silva,enviada,Bom dia! Vou ver isso
+2026-05-22 11:53:44,Joao,Rafael Pinheiro,enviada,Bom dia! Vou ver isso
+2026-05-22 13:26:44,,Andre Cliente,recebida,Voces tem revenda?
+2026-05-22 13:37:36,Carlos,Andre Cliente,enviada,Te passo as opcoes
+2026-05-22 13:38:16,,Pedro Fulano,recebida,Voces entregam aqui?
+2026-05-22 13:45:44,Joao,Pedro Fulano,enviada,"Claro, te explico"
+2026-05-22 15:15:29,,Daniela Silva,recebida,Quero fechar pedido
+2026-05-22 15:20:20,Maria,Daniela Silva,enviada,Oi! Te respondo agora
+2026-05-22 16:08:59,,Rafael Pinheiro,recebida,"Excelente, obrigado!"
+2026-05-22 16:21:48,Carlos,Rafael Pinheiro,enviada,Te passo as opcoes
+2026-05-22 16:23:39,,Andre Cliente,recebida,"Excelente, obrigado!"
+2026-05-22 16:24:26,Maria,Andre Cliente,enviada,"Claro, te explico"
+2026-05-22 16:34:31,,Isadora Lima,recebida,Voces entregam aqui?
+2026-05-22 16:37:12,Carlos,Isadora Lima,enviada,Vamos resolver
+2026-05-22 17:02:48,,Lucia Silva,recebida,"Perfeito, amei"
+2026-05-22 17:09:47,Carlos,Lucia Silva,enviada,"Claro, te explico"
+2026-05-22 18:55:34,,Isadora Lima,recebida,Vou comprar no concorrente
+2026-05-23 12:35:48,,Daniela Silva,recebida,"Que horror, pessimo atendimento"
+2026-05-23 13:20:11,Ana,Daniela Silva,enviada,Bom dia! Vou ver isso
+2026-05-23 14:24:14,,Henrique Bento,recebida,Tem desconto?
+2026-05-23 14:25:04,Carlos,Henrique Bento,enviada,Vamos resolver
+2026-05-23 16:37:37,,Andre Cliente,recebida,Quero fechar pedido
+2026-05-23 16:42:24,Carlos,Andre Cliente,enviada,"Claro, te explico"
+2026-05-23 16:50:54,,Henrique Bento,recebida,"Esta um lixo, quero cancelar"
+2026-05-23 17:23:31,Ana,Henrique Bento,enviada,"Claro, te explico"
+2026-05-24 11:26:55,,Aline Souza,recebida,Voces entregam aqui?
+2026-05-24 11:56:46,Ana,Aline Souza,enviada,"Claro, te explico"
+2026-05-24 13:42:50,,Aline Souza,recebida,"Perfeito, amei"
+2026-05-24 13:43:49,Maria,Aline Souza,enviada,Oi! Te respondo agora
+2026-05-24 14:44:25,,Roberto VIP,recebida,"Esta um lixo, quero cancelar"
+2026-05-24 14:55:27,Carlos,Roberto VIP,enviada,Posso te ligar?
+2026-05-24 16:34:02,,Carlos Mello,recebida,Voces entregam aqui?
+2026-05-24 16:54:28,,Bruno Tech,recebida,"Excelente, obrigado!"
+2026-05-24 17:01:02,Ana,Carlos Mello,enviada,Bom dia! Vou ver isso

@@ -1,0 +1,17 @@
+[24/05/2026, 08:42:11] Pedro Fulano: Bom dia, queria saber preco do plano
+[24/05/2026, 08:44:23] Joao Atendente: Bom dia Pedro! Te passo agora
+[24/05/2026, 08:45:02] Joao Atendente: O plano basico fica R$ 297
+[24/05/2026, 09:01:55] Sandra Cicrano: Oi, tem alguem ai?
+[24/05/2026, 09:05:18] Maria Atendente: Oi Sandra! Pode falar
+[24/05/2026, 09:07:34] Sandra Cicrano: Vcs entregam em SP capital?
+[24/05/2026, 09:09:01] Maria Atendente: Sim, entregamos em toda capital
+[24/05/2026, 09:18:42] Roberto VIP: Bom dia, preciso fechar um pedido grande
+[24/05/2026, 09:33:12] Ana Atendente: Oi Roberto! Bom dia
+[24/05/2026, 09:34:01] Ana Atendente: Me conta o que voce precisa
+[24/05/2026, 11:02:33] Roberto VIP: Quero 100 unidades. Como faz?
+[24/05/2026, 12:33:01] Bruno Tech: Boa tarde, isso aqui esta um lixo, quero cancelar
+[24/05/2026, 12:35:22] Maria Atendente: Boa tarde Bruno! Vamos resolver, me explica
+[24/05/2026, 14:30:22] Aline Souza: Quanto custa o premium?
+[24/05/2026, 14:48:11] Joao Atendente: Oi Aline! Premium fica R$ 597
+[24/05/2026, 16:23:48] Mariana Costa: Oi, urgente preciso da entrega hoje mesmo
+[24/05/2026, 16:32:11] Maria Atendente: Oi Mariana! Vou ver com a logistica
