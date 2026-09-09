@@ -1,8 +1,7 @@
 ---
-name: monitoramento-equipe
-description: Monitora atendentes do WhatsApp em tempo real e gera boletim diario/semanal da equipe. Use quando o usuario pedir para "ver como ta a equipe", "saber quem ta demorando", "ranking de tempo de resposta", "quem deixou cliente esperando", "boletim", "raio-X do time", "TPR", "SLA da equipe" ou "analisar semana". Aceita CSV padrao, export .txt do WhatsApp Business e JSON da Zappfy.
+name: skill-monitoramento-equipe
+description: "Monitora atendentes do WhatsApp em tempo real e gera boletim diario/semanal da equipe. Use quando o usuario pedir para \"ver como ta a equipe\", \"saber quem ta demorando\", \"ranking de tempo de resposta\", \"quem deixou cliente esperando\", \"boletim\", \"raio-X do time\", \"TPR\", \"SLA da equipe\" ou \"analisar semana\". Aceita CSV padrao, export .txt do WhatsApp Business e JSON da Zappfy."
 allowed-tools: Read Write Bash
-user-invocable: true
 ---
 
 # Skill — Monitoramento de Equipe

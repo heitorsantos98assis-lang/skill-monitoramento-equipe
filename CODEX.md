@@ -13,4 +13,4 @@ Migração automatizada e revisável do material deste repositório para o forma
 
 Abra este repositório como projeto no Codex. As instruções de `AGENTS.md` serão carregadas para o projeto. Skills ficam em `.agents/skills/` e agentes personalizados em `.codex/agents/`.
 
-A migração remove configurações exclusivas do Claude, como `model: sonnet` e listas de ferramentas específicas. Modelo, ferramentas e permissões passam a ser herdados da sessão do Codex.
+A migração remove configurações exclusivas do Codex, como `model: sonnet` e listas de ferramentas específicas. Modelo, ferramentas e permissões passam a ser herdados da sessão do Codex.

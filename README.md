@@ -1,6 +1,6 @@
 # Bonus 8 — Skill de Monitoramento de Equipe
 
-Skill do Claude Code que monitora atendentes do WhatsApp e devolve **boletim diario** (com tendencias, palavras criticas e distribuicao de carga) e **analise semanal** (sparkline por atendente, heatmap, comparativo 7d vs 7d, alertas de tendencia) — direto no seu privado, automatizado.
+Skill do Codex que monitora atendentes do WhatsApp e devolve **boletim diario** (com tendencias, palavras criticas e distribuicao de carga) e **analise semanal** (sparkline por atendente, heatmap, comparativo 7d vs 7d, alertas de tendencia) — direto no seu privado, automatizado.
 
 > Pensado para operacoes com **2 ou mais pessoas** atendendo no WhatsApp.
 > Aceita 3 formatos de input: CSV padrao, `.txt` do WhatsApp Business e JSON da Zappfy.
@@ -27,7 +27,7 @@ Skill do Claude Code que monitora atendentes do WhatsApp e devolve **boletim dia
 
 ```
 08-skill-monitoramento-equipe/
-├── SKILL.md                                    ← a skill, formato Claude Code
+├── SKILL.md                                    ← a skill, formato Codex
 ├── PLANO-IMPLEMENTACAO.md                      ← passo a passo 14 dias ate producao
 ├── scripts/
 │   ├── analisar_equipe.py                      ← boletim diario
@@ -50,11 +50,11 @@ Skill do Claude Code que monitora atendentes do WhatsApp e devolve **boletim dia
 
 ```bash
 # para todos os projetos
-mkdir -p ~/.claude/skills
-cp -r . ~/.claude/skills/monitoramento-equipe
+mkdir -p .agents/skills/
+cp -r . .agents/skills/monitoramento-equipe
 
 # OU para um projeto especifico
-cp -r . /caminho/do/projeto/.claude/skills/monitoramento-equipe
+cp -r . /caminho/do/projeto.agents/skills/monitoramento-equipe
 ```
 
 > Mantenha as pastas `scripts/`, `conversores/`, `envio/` juntas — os scripts chamam por caminho relativo.
