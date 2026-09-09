@@ -14,7 +14,7 @@ Uso:
     python analisar_semana.py conversas.csv --inicio 2026-05-19 --fim 2026-05-25
     python analisar_semana.py conversas.csv --horario-comercial 09:00-18:00
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

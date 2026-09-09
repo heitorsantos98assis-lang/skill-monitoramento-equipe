@@ -18,7 +18,7 @@ Cron exemplo:
         python scripts/analisar_equipe.py conversas.csv --vip vips.txt | \\
         python envio/enviar_boletim.py
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

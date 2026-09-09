@@ -24,7 +24,7 @@ Uso:
     python converter_zappfy.py --arquivo mensagens.json --saida conversas.csv
     python converter_zappfy.py --url https://api.zappfy.io --token TKN --dias 1
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

@@ -16,7 +16,7 @@ Formato do CSV (cabeçalho obrigatório):
     direcao   — "recebida" (cliente -> empresa) ou "enviada" (atendente -> cliente)
     mensagem  — texto livre
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 

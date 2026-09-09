@@ -167,4 +167,4 @@ Abra com a equipe (transparencia gera confianca, nao pressao):
 
 ---
 
-*Material criado pela Bravy.*
+*Material criado pela HL.*

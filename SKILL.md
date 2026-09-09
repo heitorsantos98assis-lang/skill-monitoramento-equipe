@@ -162,4 +162,4 @@ URGENTE no meu WhatsApp.
 
 ---
 
-*Skill criada pela Bravy.*
+*Skill criada pela HL.*

@@ -191,4 +191,4 @@ ALERTAS DE TENDENCIA
 
 ---
 
-*Material criado pela Bravy.*
+*Material criado pela HL.*

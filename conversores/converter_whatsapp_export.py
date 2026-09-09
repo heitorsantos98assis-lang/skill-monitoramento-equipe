@@ -17,7 +17,7 @@ Uso:
 
 Tudo que não estiver na lista de atendentes vira "cliente".
 
-Criado pela Bravy.
+Criado pela HL.
 """
 from __future__ import annotations
 
